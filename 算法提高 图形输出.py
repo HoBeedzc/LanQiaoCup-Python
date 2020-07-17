@@ -1,0 +1,5 @@
+print(' X | X | X ')
+print('---+---+---')
+print('   |   |   ')
+print('---+---+---')
+print(' O | O | O ')
