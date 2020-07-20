@@ -6,7 +6,7 @@
 
 ## 联系方式
 
-blog:[blog.hobeedzc.cn](blog.hobeedzc.cn)
+blog:[blog.hobeedzc.cn](https://blog.hobeedzc.cn/)
 
 email:[me@hobeedzc.cn](mailto:me@hobeedzc.cn)
 
