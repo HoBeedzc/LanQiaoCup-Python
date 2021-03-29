@@ -8,17 +8,20 @@
 
 ## 联系方式
 
-blog: [blog.hobeedzc.cn](https://blog.hobeedzc.cn/)
+Blog: [blog.hobeedzc.cn](https://blog.hobeedzc.cn/)
 
-email: [hobee.dzc@111.cn](mailto:hobee.dzc@111.com)
+Email: [hobee.dzc@111.com](mailto:hobee.dzc@111.com)
+
+GitHub: [@HoBeedzc](https://github.com/HoBeedzc)
 
 ## 目前解题进度
 
-- 入门训练（4/4）
-- 基础练习（12/30）
-- 算法训练（27/337）
-- 算法提高（29/334）
-- 历届真题（9/55）
+- 基础练习（ 16 /  34 ）
+- 算法训练（ 29 / 341 ）
+- 算法提高（ 35 / 341 ）
+- 历届真题（ 10 /  67 ）
+
+Last Update Time : 2021/03/29
 
 ## 目前题解
 
